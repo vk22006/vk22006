@@ -31,19 +31,17 @@ Experimental engine exploring ECS architecture and OpenGL rendering pipelines.
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### 🔥 Streak Statistics
+## 🔥 Streak Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk22006&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/vk22006" alt="Contribution Calendar" width="100%"/>
 
-📫 **Connect**
+## 📫 **Let's Connect**
 
-* LinkedIn: [Link](https://www.linkedin.com/in/kishorev22406)
-* Email: [Link](kishorev22006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorev22406)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorev22006@gmail.com)
 
