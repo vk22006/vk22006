@@ -7,20 +7,6 @@ Hey there! I’m Kishore, a passionate developer with a keen interest in craftin
 **Primary:** Java • Spring Boot • REST APIs
 **Interests:** System Design • Desktop Apps • Graphics Programming
 
-## ⚡ Projects (in Progress)
-
-🎟️ **Event Lifecycle & Ticketing Platform**
-Spring Boot backend for event management and ticket booking.
-→ REST APIs • JPA • MySQL • Layered Architecture
-
-🖥️ **OneThing — Desktop Productivity App**
-Minimal productivity tool focused on intentional task execution.
-→ Svelte • Desktop architecture exploration
-
-⚙️ **ECS Rendering Engine**
-Experimental engine exploring ECS architecture and OpenGL rendering pipelines.
-→ C++ • OpenGL • Systems learning
-
 ---
 
 ## 🛠 Tech Stack
