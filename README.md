@@ -25,9 +25,7 @@ Experimental engine exploring ECS architecture and OpenGL rendering pipelines.
 
 ## 🛠 Tech Stack
 
-**Backend:** Java, Spring Boot, MySQL
-**Frontend/App:** JavaScript, Svelte, HTML, CSS
-**Systems:** C++, OpenGL, GLSL
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=bootstrap,cpp,css,html,java-dark,mysql-dark,numpy-dark,opengl-dark,pandas-dark,postman,python-dark,scikitlearn-dark,seaborn,spring-dark,svelte,tailwindcss-dark,unrealengine)](https://i.icoziv.workers.dev)
 
 ---
 
