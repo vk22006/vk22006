@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Kishore 👋
 
-<!--
-**vk22006/vk22006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend-focused Software Developer**
 
-Here are some ideas to get you started:
+Hey there! I’m Kishore, a passionate developer with a keen interest in crafting robust and scalable software solutions. I thrive on learning new technologies and tackling challenging problems to create impactful applications. This is where I share my journey, my projects, and my exploration into the vast world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Primary:** Java • Spring Boot • REST APIs
+**Interests:** System Design • Desktop Apps • Graphics Programming
+
+## ⚡ Projects (in Progress)
+
+🎟️ **Event Lifecycle & Ticketing Platform**
+Spring Boot backend for event management and ticket booking.
+→ REST APIs • JPA • MySQL • Layered Architecture
+
+🖥️ **OneThing — Desktop Productivity App**
+Minimal productivity tool focused on intentional task execution.
+→ Svelte • Desktop architecture exploration
+
+⚙️ **ECS Rendering Engine**
+Experimental engine exploring ECS architecture and OpenGL rendering pipelines.
+→ C++ • OpenGL • Systems learning
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:** Java, Spring Boot, MySQL
+**Frontend/App:** JavaScript, Svelte, HTML, CSS
+**Systems:** C++, OpenGL, GLSL
+
+---
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk22006&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/vk22006" alt="Contribution Calendar" width="100%"/>
+
+📫 **Connect**
+
+* LinkedIn: [Link](https://www.linkedin.com/in/kishorev22406)
+* Email: [Link](kishorev22006@gmail.com)
+
