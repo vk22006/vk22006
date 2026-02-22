@@ -1,6 +1,6 @@
 # Hi, I'm Kishore 👋
 
-🚀 **Backend-focused Software Developer**
+🚀 **Student working on Backend-focused Software Development**
 
 Hey there! I’m Kishore, a passionate developer with a keen interest in crafting robust and scalable software solutions. I thrive on learning new technologies and tackling challenging problems to create impactful applications. This is where I share my journey, my projects, and my exploration into the vast world of software development.
 
