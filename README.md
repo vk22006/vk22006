@@ -3,18 +3,16 @@
 
 Hey there! I’m Kishore, a passionate developer with a keen interest in crafting robust and scalable software solutions. I thrive on learning new technologies and tackling challenging problems to create impactful applications. This is where I share my journey, my projects, and my exploration into the vast world of software and graphics development.
 
----
 
-## 🛠 Tech Stack
+## Tech Stack
 
 [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cpp,python-dark,csharp,mysql-dark,numpy-dark,pandas-dark,tensorflow,huggingface-dark,scikitlearn-dark,seaborn,godot,raylib,fastapi,postman,dotnet,svelte,tailwindcss-dark,git-dark,github,visualstudio-dark)](https://i.icoziv.workers.dev)
 
----
 
-## 📈 Contribution Activity
+## Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-## 🔥 Streak Statistics
+## Streak Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk22006&theme=tokyonight&hide_border=true"/>
 </p>
