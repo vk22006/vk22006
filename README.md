@@ -6,7 +6,7 @@ Hey there! I’m Kishore, a passionate developer with a keen interest in craftin
 
 ## Tech Stack
 
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cpp,python-dark,csharp,mysql-dark,numpy-dark,pandas-dark,tensorflow,huggingface-dark,scikitlearn-dark,seaborn,godot,raylib,fastapi,postman,dotnet,svelte,tailwindcss-dark,git-dark,github,visualstudio-dark)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cpp,python-dark,csharp,java,mysql-dark,numpy-dark,pandas-dark,tensorflow,huggingface-dark,scikitlearn-dark,seaborn,godot,raylib,fastapi,postman,dotnet,svelte,tailwindcss-dark,git-dark,github,visualstudio-dark)](https://i.icoziv.workers.dev)
 
 
 ## Contribution Activity
