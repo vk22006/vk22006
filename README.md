@@ -10,11 +10,11 @@ Hey there! I’m Kishore, a passionate developer with a keen interest in craftin
 
 
 ## Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=high-contrast&area=true&hide_border=true"/>
 
 ## Streak Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk22006&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk22006&theme=chartreuse-dark"/>
 </p>
 
 
