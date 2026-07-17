@@ -12,10 +12,10 @@ Hey there! I’m Kishore, a passionate developer with a keen interest in AI tech
 ## Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=high-contrast&area=true&hide_border=true"/>
 
-## Streak Statistics
+<!--## Streak Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk22006&theme=chartreuse-dark"/>
-</p>
+</p>-->
 
 
 ## 📫 **Let's Connect**
