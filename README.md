@@ -8,14 +8,13 @@ Hey there! I’m Kishore, a passionate developer with a keen interest in AI tech
 
 [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cpp,python-dark,java,csharp,mysql-dark,numpy-dark,pandas-dark,tensorflow,huggingface-dark,scikitlearn-dark,seaborn,godot,raylib,fastapi,postman,dotnet,svelte,tailwindcss-dark,git-dark,github,visualstudio-dark)](https://i.icoziv.workers.dev)
 
-
-## Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=high-contrast&area=true&hide_border=true"/>
 
-<!--## Streak Statistics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk22006&theme=chartreuse-dark"/>
-</p>-->
+  <img src="https://ghstats.dev/api/langs?username=vk22006&theme=ayu&hide_border=true&hide_title=true" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=vk22006&theme=ayu&hide_border=true&hide_title=true&border_radius=5&size=compact" alt="GitHub Stats Card" />
+</p>
 
 
 ## 📫 **Let's Connect**
