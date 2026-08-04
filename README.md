@@ -12,8 +12,8 @@ Hey there! I’m Kishore, a passionate developer with a keen interest in AI tech
 
 
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=vk22006&theme=ayu&hide_border=true&hide_title=true" alt="Top Languages" width="490px"/>
-  <img src="https://ghstats.dev/api/card?username=vk22006&theme=ayu&hide_border=true&hide_title=true&border_radius=5&size=compact" alt="GitHub Stats Card" width="490px"/>
+  <img src="https://ghstats.dev/api/langs?username=vk22006&theme=ayu&hide_border=true&hide_title=true" alt="Top Languages" width="450px"/>
+  <img src="https://ghstats.dev/api/card?username=vk22006&theme=ayu&hide_border=true&hide_title=true&border_radius=5&size=compact" alt="GitHub Stats Card" width="450px"/>
 </p>
 
 
