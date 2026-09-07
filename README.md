@@ -6,7 +6,7 @@ Hey there! I’m Kishore, a passionate developer with a keen interest in AI tech
 
 ## Tech Stack
 
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cpp,python-dark,java,csharp,mysql-dark,numpy-dark,pandas-dark,tensorflow,huggingface-dark,scikitlearn-dark,seaborn,godot,raylib,fastapi,postman,dotnet,svelte,tailwindcss-dark,git-dark,github,visualstudio-dark)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cpp,python-dark,csharp,dotnet,mysql-dark,tensorflow,huggingface-dark,scikitlearn-dark,godot,salesforce,postman,fastapi,svelte,git-dark,visualstudio-dark)](https://i.icoziv.workers.dev)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=high-contrast&area=true&hide_border=true"/>
 
