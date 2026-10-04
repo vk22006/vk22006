@@ -9,7 +9,7 @@ English, Tamil, Mandarin, Hindi
 
 ## Tech Stack
 
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cpp,python-dark,csharp,mysql-dark,tensorflow,ollama,scikitlearn-dark,salesforce,postman,fastapi,svelte,godot,git-dark,visualstudio-dark)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cpp,python-dark,csharp,mysql-dark,godot,tensorflow,ollama,scikitlearn-dark,salesforce,postman,fastapi,git-dark,visualstudio-dark)](https://i.icoziv.workers.dev)
 
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=vk22006&theme=high-contrast&area=true&hide_border=true"/>-->
 
