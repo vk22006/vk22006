@@ -1,7 +1,7 @@
 ![banner_image](/img/github-header-banner.png)
 
 
-Hey there! I’m Kishore, a passionate developer with a keen interest in AI technology and crafting robust and scalable software solutions. I thrive on learning new technologies and tackling challenging problems to create impactful applications. This is where I share my journey, my projects, and my exploration into the vast world of software and graphics development.
+Hey there! I'm Kishore, an AI & ML student interested in AI/ML, game development, computer graphics, and simulation. I enjoy building systems from the ground up and exploring the mathematics and engineering behind interactive and intelligent software. I'm currently expanding my work toward simulation and robotics while continuing to explore graphics, rendering, and game development with C++.
 
 ## Languages
 English, Tamil, Mandarin, Hindi
