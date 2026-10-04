@@ -1,7 +1,7 @@
 ![banner_image](/img/github-header-banner.png)
 
 
-Hey there! I'm Kishore, an AI & ML student interested in AI/ML, game development, computer graphics, and simulation. I enjoy building systems from the ground up and exploring the mathematics and engineering behind interactive and intelligent software. I'm currently expanding my work toward simulation and robotics while continuing to explore graphics, rendering, and game development with C++.
+Hey there! I'm Kishore, an undergraduate student interested in AI/ML, game development, computer graphics, and simulation. I enjoy building systems from the ground up and exploring the mathematics and engineering behind interactive and intelligent software. I'm currently expanding my work toward simulation and robotics while continuing to explore graphics, rendering, and game development with C++.
 
 ## Languages
 English, Tamil, Mandarin, Hindi
