@@ -15,8 +15,8 @@ English, Tamil, Mandarin, Hindi
 
 
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=vk22006&theme=ayu&hide_border=true&hide_title=true" alt="Top Languages" width="410px"/>
-  <img src="https://ghstats.dev/api/card?username=vk22006&theme=ayu&hide_border=true&hide_title=true&border_radius=5&size=compact" alt="GitHub Stats Card" width="410px"/>
+  <img src="https://ghstats.dev/api/langs?username=vk22006&hide_border=true&hide_title=true" alt="Top Languages" width="410px"/>
+  <img src="https://ghstats.dev/api/card?username=vk22006&hide_border=true&hide_title=true&border_radius=5&size=compact" alt="GitHub Stats Card" width="410px"/>
 </p>
 
 
