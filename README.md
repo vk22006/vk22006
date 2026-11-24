@@ -27,7 +27,7 @@ English, Tamil, Mandarin, Hindi
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk22006&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="410px" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk22006&theme=highcontrast&show_icons=true&hide_title=true&hide_border=true&layout=compact" alt="Top Languages" width="410px" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk22006&theme=highcontrast&hide_border=true" alt="GitHub Stats Card" width="410px"/>
 </p>
 
